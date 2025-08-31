@@ -1,0 +1,31 @@
+Entornos virtuales
+
+venv/
+env/
+.venv/
+
+Archivos de Jupyter Notebook
+
+.ipynb_checkpoints/
+
+Archivos de Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Archivos de configuración de IDEs
+
+.idea/
+.vscode/
+
+Archivos grandes y datos (IMPORTANTE)
+
+*.zip
+*.pt
+/data/
+/dataset_entrenamiento/
+/imagenes_propias/
+/resultados_completos_sensible/
+/resultados_clasificacion/

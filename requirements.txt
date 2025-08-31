@@ -1,0 +1,13 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+Pillow
+imbalanced-learn
+statsmodels
+gdown
+ultralytics
+pyyaml
