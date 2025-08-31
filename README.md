@@ -44,7 +44,7 @@ Sigue estos pasos para configurar el entorno y ejecutar el proyecto.
 En tu terminal, clona este repositorio en tu máquina local. Reemplaza `TU_USUARIO` con tu nombre de usuario de GitHub.
 
 ```bash
-git clone https://github.com/TU_USUARIO/Clasificacion-Enfermedades-Avicolas-CNN.git
+git clone https://github.com/jordidelgadolucas/Clasificacion-Enfermedades-Avicolas-CNN.git
 cd Clasificacion-Enfermedades-Avicolas-CNN
 ```
 
@@ -58,13 +58,13 @@ pip install -r requirements.txt```
 
 Debido a su gran tamaño, los datasets y los pesos de los modelos (.pt) no están en este repositorio. Descárgalos de los siguientes enlaces y colócalos en las rutas correspondientes especificadas dentro de cada notebook.
 
--    Dataset de Detección (YOLO): [https://universe.roboflow.com/datasets-uxi8b/do_an_tot_nghiep_phung_duy_manh]
+-    **Dataset de Detección (YOLO):** https://universe.roboflow.com/datasets-uxi8b/do_an_tot_nghiep_phung_duy_manh
 
--    Dataset de Clasificación (CNN): [https://zenodo.org/records/4628934]
+-    **Dataset de Clasificación (CNN):** https://zenodo.org/records/4628934
 
--    Pesos del Modelo YOLOv8n entrenado: [https://drive.google.com/file/d/1l7eNRZMfwMiWoxffOyuHi-pCV09tjehZ/view?usp=sharing]
+-    **Pesos del Modelo YOLOv8n entrenado:** https://drive.google.com/file/d/1l7eNRZMfwMiWoxffOyuHi-pCV09tjehZ/view?usp=sharing
 
--   Pesos del Modelo MobileNetV2 entrenado: [https://drive.google.com/file/d/1kYqKX_S8Ppwv0P7KTSQebiUZMsPp8jIn/view?usp=sharing]
+-   **Pesos del Modelo MobileNetV2 entrenado:** https://drive.google.com/file/d/1kYqKX_S8Ppwv0P7KTSQebiUZMsPp8jIn/view?usp=sharing
 
 ### 4. Ejecutar los Notebooks
 
